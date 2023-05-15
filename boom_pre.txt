@@ -1,0 +1,10 @@
+
+boom_pre.o:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	b8 27 61 91 74       	mov    $0x74916127,%eax
+   5:	68 15 95 04 08       	push   $0x8049515
+   a:	c3                   	ret    
